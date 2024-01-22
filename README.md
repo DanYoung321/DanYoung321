@@ -90,6 +90,8 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" height="40" alt="pytorch logo"  />
   <img width="2" />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="40" alt="react logo"  />
+  <img width="2" />
+  <img src="https://img.shields.io/badge/STM32-FFEE00?logo=stmicroelectronics&logoColor=black&style=for-the-badge" height="40" alt="STM32 logo"  />
 </div>
 
 ###
